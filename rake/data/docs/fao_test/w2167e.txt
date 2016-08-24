@@ -97,7 +97,7 @@ Fruits
 Fresh caterpillars
 Bought products
 ("Seasonal Variation of Diet and Nutritional Status of Young Children in Villages of Kwango-Kwitiu, Zaire Kukwiikila et al., in Tropical Forests, People and Food, UNESCO, 1993).
-- The contribution of forest foods to nutrition also varies both among and within households. Poor and landless people are often more dependent on forest foods than those with moderate incomes: one study reports that poor and landless Thai households depend on forest foods 5-6 clays a week while moderate income people rely on forest foods, on average, 3 days a week. Fruits and seeds are consumed as snacks mainly by children and in some cases by women. Ntomba children in Zaïre also collect small fry, caterpillars, grasshoppers, crickets which they share among themselves. Some of these foods are actually considered as child food. In Haiti, children are reported to miss school in periods of food scarcity in order to complement their diet with foraging. In the Andes, berries from wild shrubs are eaten by children and constitute a major source of vitamins in their diet.
+- The contribution of forest foods to nutrition also varies both among and within households. Poor and landless people are often more dependent on forest foods than those with moderate incomes: one study reports that poor and landless Thai households depend on forest foods 5-6 clays a week while moderate income people rely on forest foods, on average, 3 days a week. Fruits and seeds are consumed as snacks mainly by children and in some cases by women. Ntomba children in ZaÃ¯re also collect small fry, caterpillars, grasshoppers, crickets which they share among themselves. Some of these foods are actually considered as child food. In Haiti, children are reported to miss school in periods of food scarcity in order to complement their diet with foraging. In the Andes, berries from wild shrubs are eaten by children and constitute a major source of vitamins in their diet.
 - Forest foods can be life saving in times of famine or natural disasters as roots, stems and honey can provide energy. In areas when rainfall is low and erratic, fruits of trees and shrubs play an important role as emergency food. Generally however the collection, processing and preparation of such foods is time consuming and they are therefore being progressively abandoned with increasing commercialization and degradation of forest resources. People tend to rely more and more on markets and food aid in times of emergency.
 A.2. Forests as sources of fuelwood
 Without fuelwood from forests, food consumption or meal frequency may decrease due to rationed cooking times. In turn, the nutritional well-being of household members may suffer. Fuelwood scarcity may also increase the incidence of illness resulting from improperly prepared food. Finally, as fuelwood becomes scarce, women spend more time collecting it, leaving less time for food production, food preparation, income generation, child care and rest.
@@ -196,20 +196,20 @@ b people's practices regarding the exploitation of forest resources.
 The following points should be considered:
 1. Identification of forested areas;
 2. for each forested area, identification of population groups living:
-· in forested area
-· near forested area
-· seasonally passing through
+Â· in forested area
+Â· near forested area
+Â· seasonally passing through
 3. for each of these groups:
-· size and lifestyle (habitat, farming systems/income generation)
-· food consumption habits
-· use of forest products (what? when? by whom? what for?)
-· nutritional status/existence of nutritional problems
+Â· size and lifestyle (habitat, farming systems/income generation)
+Â· food consumption habits
+Â· use of forest products (what? when? by whom? what for?)
+Â· nutritional status/existence of nutritional problems
 B.2. Development of specific studies
 - For each forest area identified in the review of the forestry sector, a more in depth study of food security and nutrition should be done in the framework of the in-depth sector analysis.
 - The information collected during forestry sector review will need to be complemented at local level through:
-· interviews of key informants (see institutions/people identified in section "Identifying stakeholders".)
-· revision of locally available information
-· rapid appraisal (RRA) of the food and nutrition situation of indigenous groups living in and near the forest area identified.
+Â· interviews of key informants (see institutions/people identified in section "Identifying stakeholders".)
+Â· revision of locally available information
+Â· rapid appraisal (RRA) of the food and nutrition situation of indigenous groups living in and near the forest area identified.
 - This study will provide complementary information on household food systems (how does the household acquire and process the food it consumes: what? when? where? who?) and their evolution, will identify constraints to nutrition and food security, will explore the interface between forestry and nutrition, identify possible lines of action and corresponding indicators. Check-list # 1 provides a list of issues to be explored during the RRA exercise. Table 2 provides a list of RRA techniques selected as particularly relevant to the issues addressed.
 Multi-disciplinary teams
 In North Vietnam, RRA was found to be an effective methodology for the collection of information related to forestry and food security. The researchers found that a multidisciplinary team composed of forestry sector personnel, nutritionists and social scientists was essential to address the multi-faceted issues involved in dependency on forests and trees for food security. In particular, interviews were helpful in determining community dependency on forest and tree products for food security including the most vulnerable groups, and the forest and tree species used by local people (Yen et al. 1994).
@@ -429,7 +429,7 @@ New York, NY 10017 USA
 UNICEF House
 3 UN Plaza New York, NY 10017 USA
 International Governmental and Nongovernmental Organizations
-- Institut Français de Recherche Scientifique pour le Dévelopment en Cooperation (ORSTOM)
+- Institut FranÃ§ais de Recherche Scientifique pour le DÃ©velopment en Cooperation (ORSTOM)
 213, rue la Fayette
 75480 Paris Cedex 10 France
 ORSTOM assists developing countries through research in nutrition and the social sciences among other things.
